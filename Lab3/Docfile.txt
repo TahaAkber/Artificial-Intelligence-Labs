@@ -1,0 +1,1 @@
+City: karachi Population: 20 mayor: tahaCity: multan Population: 1 mayor: wahab
